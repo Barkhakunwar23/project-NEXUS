@@ -1,0 +1,17 @@
+platform,area,customer_feedback,problem_category,priority_1_low_3_high,data_label
+Instagram,Recommendations,I keep seeing similar reels repeatedly,Repetitive recommendations,2,Synthetic demo data
+YouTube,Recommendations,Videos suggested are not matching my current interests,Irrelevant recommendations,2,Synthetic demo data
+Amazon,Shopping experience,Search results do not always match what I type,Search relevance,3,Synthetic demo data
+Myntra,Shopping experience,I find size availability confusing on some product pages,Product information clarity,3,Synthetic demo data
+Instagram,Privacy,I do not understand which permissions are necessary,Privacy settings clarity,3,Synthetic demo data
+YouTube,Content controls,I want more control over the topics in my feed,User control,2,Synthetic demo data
+Amazon,Shopping experience,Product comparisons take too many steps,Shopping usability,3,Synthetic demo data
+Myntra,Returns,I want return conditions to be easier to understand,Return policy clarity,3,Synthetic demo data
+Instagram,Recommendations,I would like to discover more varied topics,Content diversity,2,Synthetic demo data
+Google,Search,Some results are not useful for my query,Search usefulness,2,Synthetic demo data
+YouTube,Content controls,It is hard to tell the system I am not interested,User control,3,Synthetic demo data
+Amazon,Privacy,Personalized ads are not always relevant to me,Ad relevance / transparency,2,Synthetic demo data
+Myntra,Shopping experience,Filters could make it easier to find the right product,Product discovery,3,Synthetic demo data
+Instagram,Privacy,I want clearer explanations of personalization settings,Privacy settings clarity,3,Synthetic demo data
+Google,Search,I would like clearer ways to refine search results,Search usefulness,2,Synthetic demo data
+YouTube,Recommendations,The homepage repeats similar content,Repetitive recommendations,2,Synthetic demo data
